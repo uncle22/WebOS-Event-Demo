@@ -1,0 +1,9 @@
+{
+    "id": "com.natemcintyre.eventtutorial",
+    "version": "1.0.0",
+    "vendor": "Nathan McIntyre",
+    "type": "web",
+    "main": "index.html",
+    "title": "Event Tutorial",
+	"uiRevision": 2,
+}

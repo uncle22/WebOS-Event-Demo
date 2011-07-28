@@ -1,0 +1,36 @@
+.eventpopup {
+}
+
+.eventpopup-title {
+	text-align: center;
+	font-weight: bold;
+}
+
+.eventpopup-datagroup {
+}
+
+.eventpopup-entryrow {
+}
+
+.eventpopup-entrylabel {
+}
+
+.eventpopup-entryinput {
+}
+
+.eventpopup-buttonrow {
+}
+
+.eventpopup-buttonrow-okbutton {
+	width: 200px;
+	background: green;
+	color: white;
+	font-weight: bold;
+}
+
+.eventpopup-buttonrow-cancelbutton {
+	width: 200px;
+	background: red;
+	color: white;
+	font-weight: bold;
+}
